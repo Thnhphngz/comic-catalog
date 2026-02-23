@@ -10,4 +10,15 @@
       "model": "eleven_v3"
     }
   ]
+    "version": 1,
+  "voices": [
+    {
+      "voice_id": "nzFihrBIvB34imQBuxub",
+      "label": "Josh (Nam - Truyện)",
+      "provider": "VIMIX",
+      "gender": "MALE",
+      "language": "en",
+      "model": "eleven_v3"
+    }
+  ]
 }
