@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "entrance_animations": [
+    { "resource_id": "6798333076469453320", "name": "Trượt sang phải" }
+  ],
+  "keyframe_presets": [
+    {
+      "name": "Zoom In Mạnh",
+      "base_scale": { "x": 1.2, "y": 1.2 },
+      "props": [
+        { "type": "KFTypeScaleX", "start": 1.0, "end": 1.3 },
+        { "type": "KFTypeScaleY", "start": 1.0, "end": 1.3 }
+      ]
+    }
+  ]
+}

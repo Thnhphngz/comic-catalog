@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "voices": [
+    {
+      "voice_id": "vi-VN-HoaiMyNeural",
+      "label": "Hoài My (Nữ - tự nhiên)",
+      "provider": "VIMIX",
+      "gender": "FEMALE",
+      "language": "vi",
+      "model": "eleven_v3"
+    }
+  ]
+}
