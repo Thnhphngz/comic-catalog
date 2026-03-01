@@ -1,11 +1,19 @@
 {
-    "version": 1,
+  "version": 1,
   "voices": [
     {
       "voice_id": "nzFihrBIvB34imQBuxub",
       "label": "Josh (Nam - Truyện)",
       "provider": "ELEVENLABS",
       "gender": "MALE",
+      "language": "en",
+      "model": "eleven_v3"
+    },
+    {
+      "voice_id": "i4CzbCVWoqvD0P1QJCUL",
+      "label": "Ivy (Nữ)",
+      "provider": "ELEVENLABS",
+      "gender": "FEMALE",
       "language": "en",
       "model": "eleven_v3"
     }
