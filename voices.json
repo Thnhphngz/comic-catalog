@@ -10,4 +10,15 @@
       "model": "eleven_v3"
     }
   ]
+        "version": 1,
+  "voices": [
+    {
+      "voice_id": "i4CzbCVWoqvD0P1QJCUL",
+      "label": "Ivy (Nữ - Truyện)",
+      "provider": "ELEVENLABS",
+      "gender": "FEMALE",
+      "language": "en",
+      "model": "eleven_v3"
+    }
+  ]
 }
