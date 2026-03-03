@@ -16,6 +16,14 @@
       "gender": "FEMALE",
       "language": "en",
       "model": "eleven_v3"
+    },
+    {
+      "voice_id": "10NkTYmU7tSz3Kkl3Lex",
+      "label": "Kaelen (Nam - Truyện)",
+      "provider": "ELEVENLABS",
+      "gender": "MALE",
+      "language": "en",
+      "model": "eleven_v3"
     }
   ]
 }
