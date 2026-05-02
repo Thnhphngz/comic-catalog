@@ -26,9 +26,9 @@
       "model": "eleven_v3"
     },
      {
-      "voice_id": "236835177529413",
-      "label": "Upbeat Woman (Nữ - Truyện)",
-      "provider": "MINIMAX",
+      "voice_id": "hpp4J3VqNfWAUOO0d1Us",
+      "label": "Bella (Nữ - Truyện)",
+      "provider": "ELEVENLABS",
       "gender": "FEMALE",
       "language": "en",
       "model": "eleven_v3"
