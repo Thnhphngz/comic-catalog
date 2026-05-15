@@ -48,6 +48,14 @@
       "gender": "MALE",
       "language": "en",
       "model": "eleven_v3"
+    },
+    {
+      "voice_id": "dtSEyYGNJqjrtBArPCVZ",
+      "label": "Titan (Nam - Reup AI Trung)",
+      "provider": "ELEVENLABS",
+      "gender": "MALE",
+      "language": "en",
+      "model": "eleven_v3"
     }
   ]
 }
